@@ -1,1 +1,3 @@
 ResolveNow:Your platform for online Complainants
+
+A WEB PLATFORM TO REGISTER USER COMPLAINTS THROUGH ONLINE.... Ive uploaded the Project files to drive and pasted the link of the source code to Github...
